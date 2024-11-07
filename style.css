@@ -1,0 +1,98 @@
+#loginbody {
+    background-image:url(https://i.pinimg.com/enabled_lo/564x/c1/eb/50/c1eb5032b791f10b97a22b97d423871c.jpg) ;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+
+}
+
+h1 {
+	color: #293961;
+    text-align: center;
+    background-color: floralwhite;
+    margin: auto;
+    width: 300px;
+    border-radius: 10px;
+}
+
+h3{
+ color: beige;
+}
+
+.container { background-color: rgba(125, 152, 196, 0.6);
+	width: 300px;
+	margin: auto;
+	text-align: center;
+   border: 10px lightblue;
+}
+
+#mp{
+ color: #293961;
+ text-align: center;
+    background-color: floralwhite;
+    margin: auto;
+    width: 100%;
+    border-radius: 10px;
+}
+
+body{
+	background-color: #c7d5d8;
+}
+
+#pd{
+	color:skyblue;
+	background-color: floralwhite;
+	width: 50%;
+}
+
+#enalbum{
+	background-color:#c7d5d8 ;
+	height:250px ;
+    width:100%;
+    
+}
+
+
+#div1{
+	background-color:#c7d5d8;
+	text-align: center;
+	width: 100%;
+    }
+
+#div2{
+	background-color:#c7d5d8;
+	text-align: center;
+	width: 100%;
+    }
+
+#div3{
+	background-color:#c7d5d8;
+	text-align: center;
+	width: 100%;
+    }
+
+#div4{
+	background-color:#c7d5d8;
+	text-align: center;
+	width: 100%;
+    }
+
+#products{
+   	background-image: url(https://i.pinimg.com/enabled_lo/564x/15/d2/05/15d20568c8728855568117d9deea5e63.jpg);
+   	background-size: cover;
+   	background-position: center;
+   }
+
+#div6{
+	background-color: rgba(125, 152, 196, 0.8);
+	width: 400px;
+	margin: auto;
+	text-align: center;
+   border: 10px lightblue;
+}
+
+input[type="submit"] {
+	background-color: #5c677d;
+	width: 150px;
+	height: 50px ;
+}
